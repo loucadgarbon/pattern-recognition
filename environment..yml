@@ -1,5 +1,0 @@
-name: conda-env
-channels:
-  - conda-forge
-dependencies:
-  - faiss
